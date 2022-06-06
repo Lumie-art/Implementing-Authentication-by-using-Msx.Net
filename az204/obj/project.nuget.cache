@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B7pfcpmkRm7+4tDPkqLh8vN3Q+tb3UJ27AMZZ+ZLyVHpKkHNnmbQbyfuO1rAh2uonYKlZfNpyv2ZkThr3sCxsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oluwapelumi Adeyemo\\az204\\az204.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oluwapelumi Adeyemo\\.nuget\\packages\\microsoft.identity.client\\4.44.0\\microsoft.identity.client.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
